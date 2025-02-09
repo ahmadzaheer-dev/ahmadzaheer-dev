@@ -7,10 +7,10 @@ Motivated Full Stack Engineer with years of experience, aiming to contribute to 
 
 ## 🔥 Experience
 
-- 🏢 Team Lead | Software Engineer II - Netsol Technologies (Oct 2024 - Present)
-- 🏢 Software Engineer II - Netsol Technologies (Apr 2024 - Present)
-- 🏢 Software Engineer - Educative (Jun 2022 - Sep 2023)
-- 🏢 Web Developer Intern - Digital Websters (Jun 2019 - Sep 2019)
+- **Team Lead | Software Engineer II** - Netsol Technologies (Oct 2024 - Present)
+- **Software Engineer II** - Netsol Technologies (Apr 2024 - Present)
+- **Software Engineer** - Educative (Jun 2022 - Sep 2023)
+- **Web Developer Intern** - Digital Websters (Jun 2019 - Sep 2019)
 
 
 ## 🛠 Skills & Technologies
